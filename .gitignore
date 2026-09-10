@@ -1,0 +1,14 @@
+# Node dependencies & environment[cite: 1, 2]
+backend/node_modules/
+backend/.env
+
+# Flutter / Android build files
+mobile/.dart_tool/
+mobile/.idea/
+mobile/build/
+mobile/.packages
+mobile/*.iml
+
+# System files
+.DS_Store
+Thumbs.db
